@@ -17,4 +17,4 @@ Grok:
 https://grok.com/share/c2hhcmQtMw%3D%3D_03095fbd-ce52-42c9-bc8d-5540e5fd8a57
 
 
-*(Grok's reply was specifically tailored to me based on our past projects and conversations)*6
+(Grok's reply was specifically tailored to me based on our past projects and conversations)
